@@ -25,10 +25,6 @@ LBBYs_CH2/
 │   ├── 3_modelado/               # Modelos: tanto de ML(SVC, KNN, Gaussian_NB, ...) como NLP (Bert, Distilbert) Con evalucion incluida
 │   └── 4_documentacion/          # Tablas de autoría y valoraciones
 │
-├── doc/                          # Documentación final del proyecto
-│   ├── memoria_equipo.pdf
-│   ├── partes_individuales/
-│   └── presentacion_equipo.pdf
 │
 ├── README.md                     # Este archivo
 └── .gitignore
